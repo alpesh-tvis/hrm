@@ -1,0 +1,4 @@
+Date,Transaction ID,Transaction Type,Transaction Summary,Transaction Summary Details,Description 1,Description 2,Agency,Freelancer,Team,Account Name,PO,Ref ID,Amount $,Amount in local currency,Currency,Current Balance $,Payment Method
+"Mar 14, 2025",787018511,Service Fee,Website Modifications,"Earnings for Mar 3-Mar 9, 2025",Service fee,$25.00 x 10.0% = $2.50,,,Michel Gareau,Parth Goradia,,787018530,-2.50,,,1033.36,
+"Mar 14, 2025",787018511,WHT,Website Modifications,"Earnings for Mar 3-Mar 9, 2025",Withholding tax,$25.00 x 0.1% = $0.03,,,Michel Gareau,Parth Goradia,,787018519,-0.03,,,1035.86,
+"Mar 14, 2025",787018511,Hourly,Website Modifications,"Earnings for Mar 3-Mar 9, 2025","Earnings for Mar 3-Mar 9, 2025",0.83 hours x $30.00 = $25.00,,,Michel Gareau,Parth Goradia,,787018511,25.00,,,1035.89,

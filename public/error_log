@@ -1,0 +1,36 @@
+[21-Apr-2026 08:25:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Foundation\Application::handleRequest() in /home/pqtmztysdbtw/public_html/projects/hrm/public/index.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/pqtmztysdbtw/public_html/projects/hrm/public/index.php on line 20
+[21-Apr-2026 08:25:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Foundation\Application::handleRequest() in /home/pqtmztysdbtw/public_html/projects/hrm/public/index.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/pqtmztysdbtw/public_html/projects/hrm/public/index.php on line 20
+[21-Apr-2026 08:25:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Foundation\Application::handleRequest() in /home/pqtmztysdbtw/public_html/projects/hrm/public/index.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/pqtmztysdbtw/public_html/projects/hrm/public/index.php on line 20
+[21-Apr-2026 08:25:55 UTC] PHP Warning:  require_once(/home/pqtmztysdbtw/public_html/projects/hrm/public/vendor/autoload.php): Failed to open stream: No such file or directory in /home/pqtmztysdbtw/public_html/projects/hrm/public/index.php on line 12
+[21-Apr-2026 08:25:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pqtmztysdbtw/public_html/projects/hrm/public/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pqtmztysdbtw/public_html/projects/hrm/public/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/pqtmztysdbtw/public_html/projects/hrm/public/index.php on line 12
+[21-Apr-2026 08:25:55 UTC] PHP Warning:  require_once(/home/pqtmztysdbtw/public_html/projects/hrm/public/vendor/autoload.php): Failed to open stream: No such file or directory in /home/pqtmztysdbtw/public_html/projects/hrm/public/index.php on line 12
+[21-Apr-2026 08:25:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pqtmztysdbtw/public_html/projects/hrm/public/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pqtmztysdbtw/public_html/projects/hrm/public/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/pqtmztysdbtw/public_html/projects/hrm/public/index.php on line 12
+[21-Apr-2026 08:25:55 UTC] PHP Warning:  require_once(/home/pqtmztysdbtw/public_html/projects/hrm/public/vendor/autoload.php): Failed to open stream: No such file or directory in /home/pqtmztysdbtw/public_html/projects/hrm/public/index.php on line 12
+[21-Apr-2026 08:25:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pqtmztysdbtw/public_html/projects/hrm/public/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pqtmztysdbtw/public_html/projects/hrm/public/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/pqtmztysdbtw/public_html/projects/hrm/public/index.php on line 12
+[21-Apr-2026 08:25:58 UTC] PHP Warning:  require_once(/home/pqtmztysdbtw/public_html/projects/hrm/public/vendor/autoload.php): Failed to open stream: No such file or directory in /home/pqtmztysdbtw/public_html/projects/hrm/public/index.php on line 12
+[21-Apr-2026 08:25:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pqtmztysdbtw/public_html/projects/hrm/public/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pqtmztysdbtw/public_html/projects/hrm/public/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/pqtmztysdbtw/public_html/projects/hrm/public/index.php on line 12
+[27-Apr-2026 14:18:41 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 400560128 bytes) in /home/pqtmztysdbtw/public_html/projects/hrm/app/Http/Controllers/MailRequestController.php on line 27
+[27-Apr-2026 14:18:56 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 400560128 bytes) in /home/pqtmztysdbtw/public_html/projects/hrm/app/Http/Controllers/MailRequestController.php on line 27
+[11-May-2026 16:08:56 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/pqtmztysdbtw/public_html/projects/hrm/vendor/dompdf/dompdf/src/Css/Style.php on line 1115
+[11-May-2026 16:12:44 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/pqtmztysdbtw/public_html/projects/hrm/vendor/dompdf/dompdf/src/Css/Style.php on line 1117

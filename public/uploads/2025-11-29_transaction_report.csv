@@ -1,0 +1,53 @@
+Date,Ref ID,Type,Description,Agency,Freelancer,Team,Account Name,PO,Amount,Amount in local currency,Currency,Balance
+"Nov 15, 2025",863164997,Fixed Price,"Invoice for Membership Recipe Subscription Site (MemberPress, Elementor, WP Recipe Maker Elite): Milestone 5 - Launching and fixes/support",tviStech,Parth Goradia,Easy Recipe Gang,tviStech,,350,,,2284.96
+"Nov 15, 2025",863164998,Service Fee,Service Fee for Fixed Price - Ref ID 863164997,tviStech,Parth Goradia,Easy Recipe Gang,tviStech,,-35,,,2249.96
+"Nov 15, 2025",863164999,WHT,Withholding Tax (IN) - Ref ID 863164997,tviStech,Parth Goradia,Easy Recipe Gang,tviStech,,-0.35,,,2249.61
+"Nov 18, 2025",864897896,Fixed Price,Invoice for Full Stack / Backend Developer: Milestone 2 - Search restructure + .01 Page Adjustments,tviStech,Parth Goradia,Andy Y,tviStech,,418,,,2667.61
+"Nov 18, 2025",864897897,Service Fee,Service Fee for Fixed Price - Ref ID 864897896,tviStech,Parth Goradia,Andy Y,tviStech,,-41.8,,,2625.81
+"Nov 18, 2025",864897898,WHT,Withholding Tax (IN) - Ref ID 864897896,tviStech,Parth Goradia,Andy Y,tviStech,,-0.42,,,2625.39
+"Nov 22, 2025",865337930,Fixed Price,Invoice for Website Update!!: Milestone 1 - Website Update!!,tviStech,Deep  Maurya,Ron Jazzar,tviStech,,22,,,3739.8
+"Nov 22, 2025",865337931,Service Fee,Service Fee for Fixed Price - Ref ID 865337930,tviStech,Deep  Maurya,Ron Jazzar,tviStech,,-2.2,,,3737.6
+"Nov 22, 2025",865337932,WHT,Withholding Tax (IN) - Ref ID 865337930,tviStech,Deep  Maurya,Ron Jazzar,tviStech,,-0.02,,,3737.58
+"Nov 21, 2025",865415505,Hourly,Invoice for 11/10/2025-11/16/2025 - 6:00 hrs @ $26.00/hr (tvis-deep),tviStech,Deep  Maurya,Joe Griffin,tviStech,,156,,,2706.39
+"Nov 21, 2025",865415521,WHT,Withholding Tax (IN) - Ref ID 865415505,tviStech,Deep  Maurya,Joe Griffin,tviStech,,-0.16,,,2706.23
+"Nov 21, 2025",865415529,Service Fee,Service Fee for Hourly - Ref ID 865415505,tviStech,Deep  Maurya,Joe Griffin,tviStech,,-15.6,,,2690.63
+"Nov 21, 2025",865424422,Hourly,Invoice for 11/10/2025-11/16/2025 - 1:10 hrs @ $26.00/hr (tvis-alpesh),tviStech,Alpesh Joshi,Joe Griffin,tviStech,,30.33,,,2720.96
+"Nov 21, 2025",865424432,WHT,Withholding Tax (IN) - Ref ID 865424422,tviStech,Alpesh Joshi,Joe Griffin,tviStech,,-0.03,,,2720.93
+"Nov 21, 2025",865424448,Service Fee,Service Fee for Hourly - Ref ID 865424422,tviStech,Alpesh Joshi,Joe Griffin,tviStech,,-3.03,,,2717.9
+"Nov 21, 2025",865428033,Hourly,Invoice for 11/10/2025-11/16/2025 - 2:10 hrs @ $18.00/hr (tvis-sanjana),tviStech,Sanjana Makhija,Alex Canter,tviStech,,39,,,2756.9
+"Nov 21, 2025",865428039,WHT,Withholding Tax (IN) - Ref ID 865428033,tviStech,Sanjana Makhija,Alex Canter,tviStech,,-0.04,,,2756.86
+"Nov 21, 2025",865428053,Service Fee,Service Fee for Hourly - Ref ID 865428033,tviStech,Sanjana Makhija,Alex Canter,tviStech,,-3.9,,,2752.96
+"Nov 21, 2025",865529684,Hourly,Invoice for 11/10/2025-11/16/2025 - 8:40 hrs @ $20.00/hr (tvis-deep),tviStech,Deep  Maurya,Helene Facchini,tviStech,,173.33,,,2926.29
+"Nov 21, 2025",865529690,WHT,Withholding Tax (IN) - Ref ID 865529684,tviStech,Deep  Maurya,Helene Facchini,tviStech,,-0.17,,,2926.12
+"Nov 21, 2025",865529703,Service Fee,Service Fee for Hourly - Ref ID 865529684,tviStech,Deep  Maurya,Helene Facchini,tviStech,,-17.33,,,2908.79
+"Nov 21, 2025",865543659,Hourly,Invoice for 11/10/2025-11/16/2025 - 2:00 hrs @ $30.00/hr (pgoradia),tviStech,Parth Goradia,Vizionality,tviStech,,60,,,2968.79
+"Nov 21, 2025",865543664,WHT,Withholding Tax (IN) - Ref ID 865543659,tviStech,Parth Goradia,Vizionality,tviStech,,-0.06,,,2968.73
+"Nov 21, 2025",865543672,Service Fee,Service Fee for Hourly - Ref ID 865543659,tviStech,Parth Goradia,Vizionality,tviStech,,-6,,,2962.73
+"Nov 21, 2025",866230992,Hourly,Invoice for 11/10/2025-11/16/2025 - 20:50 hrs @ $22.00/hr (pgoradia),tviStech,Parth Goradia,Kam,tviStech,,458.33,,,3421.06
+"Nov 21, 2025",866231005,WHT,Withholding Tax (IN) - Ref ID 866230992,tviStech,Parth Goradia,Kam,tviStech,,-0.46,,,3420.6
+"Nov 21, 2025",866231016,Service Fee,Service Fee for Hourly - Ref ID 866230992,tviStech,Parth Goradia,Kam,tviStech,,-45.83,,,3374.77
+"Nov 21, 2025",866255704,Hourly,Invoice for 11/10/2025-11/16/2025 - 15:30 hrs @ $30.00/hr (tvis-sanjana),tviStech,Sanjana Makhija,Cristian O,tviStech,,465,,,3839.77
+"Nov 21, 2025",866255715,WHT,Withholding Tax (IN) - Ref ID 866255704,tviStech,Sanjana Makhija,Cristian O,tviStech,,-0.47,,,3839.3
+"Nov 21, 2025",866255730,Service Fee,Service Fee for Hourly - Ref ID 866255704,tviStech,Sanjana Makhija,Cristian O,tviStech,,-46.5,,,3792.8
+"Nov 18, 2025",866587901,Membership Fee,Fees for additional Connects (500).,,,,tviStech,,-75,,,2550.39
+"Nov 25, 2025",866945302,Fixed Price,"Invoice for Membership Recipe Subscription Site (MemberPress, Elementor, WP Recipe Maker Elite): Milestone 6 - Monthly maintenance",tviStech,Parth Goradia,Easy Recipe Gang,tviStech,,120,,,3857.58
+"Nov 25, 2025",866945303,Service Fee,Service Fee for Fixed Price - Ref ID 866945302,tviStech,Parth Goradia,Easy Recipe Gang,tviStech,,-12,,,3845.58
+"Nov 25, 2025",866945304,WHT,Withholding Tax (IN) - Ref ID 866945302,tviStech,Parth Goradia,Easy Recipe Gang,tviStech,,-0.12,,,3845.46
+"Nov 21, 2025",867198848,Membership Fee,Fees for additional Connects (500).,,,,tviStech,,-75,,,3717.8
+"Nov 22, 2025",867328733,Membership Fee,Subscription Renewal Charges,,,,Parth Goradia,,-19.99,,,
+"Nov 28, 2025",867579982,Hourly,Invoice for 11/17/2025-11/23/2025 - 1:30 hrs @ $26.00/hr (tvis-deep),tviStech,Deep  Maurya,StudioDanko,tviStech,,39,,,3809.46
+"Nov 28, 2025",867579989,WHT,Withholding Tax (IN) - Ref ID 867579982,tviStech,Deep  Maurya,StudioDanko,tviStech,,-0.04,,,3809.42
+"Nov 28, 2025",867579995,Service Fee,Service Fee for Hourly - Ref ID 867579982,tviStech,Deep  Maurya,StudioDanko,tviStech,,-3.9,,,3805.52
+"Nov 28, 2025",867579997,Hourly,Invoice for 11/17/2025-11/23/2025 - 5:50 hrs @ $26.00/hr (tvis-deep),tviStech,Deep  Maurya,Joe Griffin,tviStech,,151.67,,,3957.19
+"Nov 28, 2025",867580006,WHT,Withholding Tax (IN) - Ref ID 867579997,tviStech,Deep  Maurya,Joe Griffin,tviStech,,-0.15,,,3957.04
+"Nov 28, 2025",867580016,Service Fee,Service Fee for Hourly - Ref ID 867579997,tviStech,Deep  Maurya,Joe Griffin,tviStech,,-15.17,,,3941.87
+"Nov 28, 2025",867707048,Hourly,Invoice for 11/17/2025-11/23/2025 - 8:10 hrs @ $30.00/hr (pgoradia),tviStech,Parth Goradia,Vizionality,tviStech,,245,,,4186.87
+"Nov 28, 2025",867707059,WHT,Withholding Tax (IN) - Ref ID 867707048,tviStech,Parth Goradia,Vizionality,tviStech,,-0.25,,,4186.62
+"Nov 28, 2025",867707080,Service Fee,Service Fee for Hourly - Ref ID 867707048,tviStech,Parth Goradia,Vizionality,tviStech,,-24.5,,,4162.12
+"Nov 28, 2025",868352252,Hourly,Invoice for 11/17/2025-11/23/2025 - 22:50 hrs @ $22.00/hr (pgoradia),tviStech,Parth Goradia,Kam,tviStech,,502.33,,,4664.45
+"Nov 28, 2025",868352267,WHT,Withholding Tax (IN) - Ref ID 868352252,tviStech,Parth Goradia,Kam,tviStech,,-0.5,,,4663.95
+"Nov 28, 2025",868352283,Service Fee,Service Fee for Hourly - Ref ID 868352252,tviStech,Parth Goradia,Kam,tviStech,,-50.23,,,4613.72
+"Nov 28, 2025",868366564,Hourly,Invoice for 11/17/2025-11/23/2025 - 16:20 hrs @ $30.00/hr (tvis-sanjana),tviStech,Sanjana Makhija,Cristian O,tviStech,,490,,,5103.72
+"Nov 28, 2025",868366581,WHT,Withholding Tax (IN) - Ref ID 868366564,tviStech,Sanjana Makhija,Cristian O,tviStech,,-0.49,,,5103.23
+"Nov 28, 2025",868366597,Service Fee,Service Fee for Hourly - Ref ID 868366564,tviStech,Sanjana Makhija,Cristian O,tviStech,,-49,,,5054.23
+"Nov 27, 2025",869153187,Membership Fee,Fees for additional Connects (500).,,,,tviStech,,-75,,,3770.46

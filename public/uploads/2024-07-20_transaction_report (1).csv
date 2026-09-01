@@ -1,0 +1,82 @@
+Date,Ref ID,Type,Description,Agency,Freelancer,Team,Account Name,PO,Amount,Amount in local currency,Currency,Balance
+"Jul 6, 2024",709873129,Fixed Price,Invoice for Website for Faya BV / Car Company: Milestone 5 - additional sold page,tviStech,Parth Goradia,Ihsan  Doksanbir,tviStech,,60,,,3114.07
+"Jul 6, 2024",709873130,WHT,Withholding Tax (IN) - Ref ID 709873129,tviStech,Parth Goradia,Ihsan  Doksanbir,tviStech,,-0.6,,,3113.47
+"Jul 6, 2024",709873131,Service Fee,Service Fee for Fixed Price - Ref ID 709873129,tviStech,Parth Goradia,Ihsan  Doksanbir,tviStech,,-6,,,3107.47
+"Jul 5, 2024",709937373,Hourly,Invoice for 06/24/2024-06/30/2024 - 0:40 hrs @ $26.00/hr (tvis-deep),tviStech,Deep  Maurya,Joe Griffin,tviStech,,17.33,,,2767.61
+"Jul 5, 2024",709937393,WHT,Withholding Tax (IN) - Ref ID 709937373,tviStech,Deep  Maurya,Joe Griffin,tviStech,,-0.17,,,2767.44
+"Jul 5, 2024",709937428,Service Fee,Service Fee for Hourly - Ref ID 709937373,tviStech,Deep  Maurya,Joe Griffin,tviStech,,-1.73,,,2765.71
+"Jul 5, 2024",709955237,Hourly,Invoice for 06/24/2024-06/30/2024 - 1:40 hrs @ $26.00/hr (tvis-alpesh),tviStech,Alpesh Joshi,Joe Griffin,tviStech,,43.33,,,2809.04
+"Jul 5, 2024",709955246,WHT,Withholding Tax (IN) - Ref ID 709955237,tviStech,Alpesh Joshi,Joe Griffin,tviStech,,-0.43,,,2808.61
+"Jul 5, 2024",709955259,Service Fee,Service Fee for Hourly - Ref ID 709955237,tviStech,Alpesh Joshi,Joe Griffin,tviStech,,-4.33,,,2804.28
+"Jul 5, 2024",710310997,Hourly,Invoice for 06/24/2024-06/30/2024 - 2:20 hrs @ $26.00/hr (5eec3a65),tviStech,Lokesh Choubisa,Barney,tviStech,,60.67,,,2864.95
+"Jul 5, 2024",710311014,WHT,Withholding Tax (IN) - Ref ID 710310997,tviStech,Lokesh Choubisa,Barney,tviStech,,-0.61,,,2864.34
+"Jul 5, 2024",710311029,Service Fee,Service Fee for Hourly - Ref ID 710310997,tviStech,Lokesh Choubisa,Barney,tviStech,,-6.07,,,2858.27
+"Jul 5, 2024",710321906,Hourly,Invoice for 06/24/2024-06/30/2024 - 0:50 hrs @ $20.00/hr (tvis-juhi),tviStech,Juhi Dave,David Hahn,tviStech,,16.67,,,2874.94
+"Jul 5, 2024",710321914,WHT,Withholding Tax (IN) - Ref ID 710321906,tviStech,Juhi Dave,David Hahn,tviStech,,-0.17,,,2874.77
+"Jul 5, 2024",710321935,Service Fee,Service Fee for Hourly - Ref ID 710321906,tviStech,Juhi Dave,David Hahn,tviStech,,-1.67,,,2873.1
+"Jul 5, 2024",710361332,Hourly,Invoice for 06/24/2024-06/30/2024 - 10:10 hrs @ $20.00/hr (a43cded8),tviStech,Vishal Barot,Helene Facchini,tviStech,,203.33,,,3076.43
+"Jul 5, 2024",710361350,WHT,Withholding Tax (IN) - Ref ID 710361332,tviStech,Vishal Barot,Helene Facchini,tviStech,,-2.03,,,3074.4
+"Jul 5, 2024",710361360,Service Fee,Service Fee for Hourly - Ref ID 710361332,tviStech,Vishal Barot,Helene Facchini,tviStech,,-20.33,,,3054.07
+"Jul 5, 2024",710612136,Hourly,Invoice for 06/24/2024-06/30/2024 - 8:30 hrs @ $20.00/hr,,Parth Goradia,Tenacious Intelligence Corporation,Parth Goradia,,170,,,775.58
+"Jul 5, 2024",710612150,WHT,Withholding Tax (IN) - Ref ID 710612136,,Parth Goradia,Tenacious Intelligence Corporation,Parth Goradia,,-1.7,,,773.88
+"Jul 5, 2024",710612158,Service Fee,Service Fee for Hourly - Ref ID 710612136,,Parth Goradia,Tenacious Intelligence Corporation,Parth Goradia,,-17,,,756.88
+"Jul 7, 2024",712036345,Membership Fee,Fees for additional Connects (500).,,,,tviStech,,-75,,,3032.47
+"Jul 12, 2024",712209699,Hourly,Invoice for 07/01/2024-07/07/2024 - 0:30 hrs @ $26.00/hr (tvis-deep),tviStech,Deep  Maurya,StudioDanko,tviStech,,13,,,3025.47
+"Jul 12, 2024",712209706,WHT,Withholding Tax (IN) - Ref ID 712209699,tviStech,Deep  Maurya,StudioDanko,tviStech,,-0.13,,,3025.34
+"Jul 12, 2024",712209725,Hourly,Invoice for 07/01/2024-07/07/2024 - 1:00 hrs @ $26.00/hr (tvis-deep),tviStech,Deep  Maurya,Joe Griffin,tviStech,,26,,,3051.34
+"Jul 12, 2024",712209732,Service Fee,Service Fee for Hourly - Ref ID 712209699,tviStech,Deep  Maurya,StudioDanko,tviStech,,-1.3,,,3050.04
+"Jul 12, 2024",712209738,WHT,Withholding Tax (IN) - Ref ID 712209725,tviStech,Deep  Maurya,Joe Griffin,tviStech,,-0.26,,,3049.78
+"Jul 12, 2024",712209769,Service Fee,Service Fee for Hourly - Ref ID 712209725,tviStech,Deep  Maurya,Joe Griffin,tviStech,,-2.6,,,3047.18
+"Jul 12, 2024",712226898,Hourly,Invoice for 07/01/2024-07/07/2024 - 5:50 hrs @ $26.00/hr (tvis-alpesh),tviStech,Alpesh Joshi,Joe Griffin,tviStech,,151.67,,,3198.85
+"Jul 12, 2024",712226908,WHT,Withholding Tax (IN) - Ref ID 712226898,tviStech,Alpesh Joshi,Joe Griffin,tviStech,,-1.52,,,3197.33
+"Jul 12, 2024",712226925,Service Fee,Service Fee for Hourly - Ref ID 712226898,tviStech,Alpesh Joshi,Joe Griffin,tviStech,,-15.17,,,3182.16
+"Jul 12, 2024",712525109,Hourly,Invoice for 07/01/2024-07/07/2024 - 9:30 hrs @ $20.00/hr (tvis-deep),tviStech,Deep  Maurya,Helene Facchini,tviStech,,190,,,3372.16
+"Jul 12, 2024",712525124,WHT,Withholding Tax (IN) - Ref ID 712525109,tviStech,Deep  Maurya,Helene Facchini,tviStech,,-1.9,,,3370.26
+"Jul 12, 2024",712525138,Service Fee,Service Fee for Hourly - Ref ID 712525109,tviStech,Deep  Maurya,Helene Facchini,tviStech,,-19,,,3351.26
+"Jul 12, 2024",712547153,Hourly,Invoice for 07/01/2024-07/07/2024 - 10:00 hrs @ $20.00/hr (6bce1652),tviStech,Jay Modi,David Hahn,tviStech,,200,,,3551.26
+"Jul 12, 2024",712547165,WHT,Withholding Tax (IN) - Ref ID 712547153,tviStech,Jay Modi,David Hahn,tviStech,,-2,,,3549.26
+"Jul 12, 2024",712547178,Service Fee,Service Fee for Hourly - Ref ID 712547153,tviStech,Jay Modi,David Hahn,tviStech,,-20,,,3529.26
+"Jul 12, 2024",712567399,Hourly,Invoice for 07/01/2024-07/07/2024 - 5:00 hrs @ $26.00/hr (6bce1652),tviStech,Jay Modi,Barney,tviStech,,130,,,3659.26
+"Jul 12, 2024",712567406,WHT,Withholding Tax (IN) - Ref ID 712567399,tviStech,Jay Modi,Barney,tviStech,,-1.3,,,3657.96
+"Jul 12, 2024",712567423,Service Fee,Service Fee for Hourly - Ref ID 712567399,tviStech,Jay Modi,Barney,tviStech,,-13,,,3644.96
+"Jul 12, 2024",712567433,Hourly,Invoice for 07/01/2024-07/07/2024 - 1:00 hrs @ $26.00/hr (5eec3a65),tviStech,Lokesh Choubisa,Barney,tviStech,,26,,,3670.96
+"Jul 12, 2024",712567439,WHT,Withholding Tax (IN) - Ref ID 712567433,tviStech,Lokesh Choubisa,Barney,tviStech,,-0.26,,,3670.7
+"Jul 12, 2024",712567460,Service Fee,Service Fee for Hourly - Ref ID 712567433,tviStech,Lokesh Choubisa,Barney,tviStech,,-2.6,,,3668.1
+"Jul 12, 2024",712577608,Hourly,Invoice for 07/01/2024-07/07/2024 - 23:30 hrs @ $20.00/hr (tvis-juhi),tviStech,Juhi Dave,David Hahn,tviStech,,470,,,4138.1
+"Jul 12, 2024",712577619,WHT,Withholding Tax (IN) - Ref ID 712577608,tviStech,Juhi Dave,David Hahn,tviStech,,-4.7,,,4133.4
+"Jul 12, 2024",712577639,Service Fee,Service Fee for Hourly - Ref ID 712577608,tviStech,Juhi Dave,David Hahn,tviStech,,-47,,,4086.4
+"Jul 12, 2024",712843818,Hourly,Invoice for 07/01/2024-07/07/2024 - 12:50 hrs @ $20.00/hr,,Parth Goradia,Tenacious Intelligence Corporation,Parth Goradia,,256.67,,,1013.55
+"Jul 12, 2024",712843835,WHT,Withholding Tax (IN) - Ref ID 712843818,,Parth Goradia,Tenacious Intelligence Corporation,Parth Goradia,,-2.57,,,1010.98
+"Jul 12, 2024",712843846,Service Fee,Service Fee for Hourly - Ref ID 712843818,,Parth Goradia,Tenacious Intelligence Corporation,Parth Goradia,,-25.67,,,985.31
+"Jul 12, 2024",713052213,Hourly,Invoice for 07/01/2024-07/07/2024 - 3:40 hrs @ $20.00/hr (pgoradia),tviStech,Parth Goradia,Dor Suki,tviStech,,73.33,,,4159.73
+"Jul 12, 2024",713052225,WHT,Withholding Tax (IN) - Ref ID 713052213,tviStech,Parth Goradia,Dor Suki,tviStech,,-0.73,,,4159
+"Jul 12, 2024",713052229,Service Fee,Service Fee for Hourly - Ref ID 713052213,tviStech,Parth Goradia,Dor Suki,tviStech,,-7.33,,,4151.67
+"Jul 11, 2024",713732985,Membership Fee,Subscription Renewal Charges,,,,tviStech,,-20,,,3012.47
+"Jul 19, 2024",714377923,Hourly,Invoice for 07/08/2024-07/14/2024 - 0:50 hrs @ $26.00/hr (tvis-mehul),tviStech,Mehul Savsani,StudioDanko,tviStech,,21.67,,,4098.34
+"Jul 19, 2024",714377932,WHT,Withholding Tax (IN) - Ref ID 714377923,tviStech,Mehul Savsani,StudioDanko,tviStech,,-0.22,,,4098.12
+"Jul 19, 2024",714377954,Service Fee,Service Fee for Hourly - Ref ID 714377923,tviStech,Mehul Savsani,StudioDanko,tviStech,,-2.17,,,4095.95
+"Jul 19, 2024",714377957,Hourly,Invoice for 07/08/2024-07/14/2024 - 20:00 hrs @ $26.00/hr (tvis-deep),tviStech,Deep  Maurya,Joe Griffin,tviStech,,520,,,4615.95
+"Jul 19, 2024",714377982,WHT,Withholding Tax (IN) - Ref ID 714377957,tviStech,Deep  Maurya,Joe Griffin,tviStech,,-5.2,,,4610.75
+"Jul 19, 2024",714377994,Service Fee,Service Fee for Hourly - Ref ID 714377957,tviStech,Deep  Maurya,Joe Griffin,tviStech,,-52,,,4558.75
+"Jul 19, 2024",714395142,Hourly,Invoice for 07/08/2024-07/14/2024 - 15:50 hrs @ $26.00/hr (tvis-alpesh),tviStech,Alpesh Joshi,Joe Griffin,tviStech,,411.67,,,4970.42
+"Jul 19, 2024",714395161,WHT,Withholding Tax (IN) - Ref ID 714395142,tviStech,Alpesh Joshi,Joe Griffin,tviStech,,-4.12,,,4966.3
+"Jul 19, 2024",714395208,Service Fee,Service Fee for Hourly - Ref ID 714395142,tviStech,Alpesh Joshi,Joe Griffin,tviStech,,-41.17,,,4925.13
+"Jul 19, 2024",714401963,Hourly,Invoice for 07/08/2024-07/14/2024 - 0:50 hrs @ $18.00/hr (tvis-sanjana),tviStech,Sanjana Makhija,Alex Canter,tviStech,,15,,,4940.13
+"Jul 19, 2024",714401975,WHT,Withholding Tax (IN) - Ref ID 714401963,tviStech,Sanjana Makhija,Alex Canter,tviStech,,-0.15,,,4939.98
+"Jul 19, 2024",714401999,Service Fee,Service Fee for Hourly - Ref ID 714401963,tviStech,Sanjana Makhija,Alex Canter,tviStech,,-1.5,,,4938.48
+"Jul 19, 2024",714689940,Hourly,Invoice for 07/08/2024-07/14/2024 - 3:00 hrs @ $20.00/hr (tvis-deep),tviStech,Deep  Maurya,Helene Facchini,tviStech,,60,,,4998.48
+"Jul 19, 2024",714689957,WHT,Withholding Tax (IN) - Ref ID 714689940,tviStech,Deep  Maurya,Helene Facchini,tviStech,,-0.6,,,4997.88
+"Jul 19, 2024",714689971,Service Fee,Service Fee for Hourly - Ref ID 714689940,tviStech,Deep  Maurya,Helene Facchini,tviStech,,-6,,,4991.88
+"Jul 19, 2024",714711276,Hourly,Invoice for 07/08/2024-07/14/2024 - 7:00 hrs @ $20.00/hr (6bce1652),tviStech,Jay Modi,David Hahn,tviStech,,140,,,5131.88
+"Jul 19, 2024",714711287,WHT,Withholding Tax (IN) - Ref ID 714711276,tviStech,Jay Modi,David Hahn,tviStech,,-1.4,,,5130.48
+"Jul 19, 2024",714711309,Service Fee,Service Fee for Hourly - Ref ID 714711276,tviStech,Jay Modi,David Hahn,tviStech,,-14,,,5116.48
+"Jul 19, 2024",714731315,Hourly,Invoice for 07/08/2024-07/14/2024 - 0:20 hrs @ $26.00/hr (5eec3a65),tviStech,Lokesh Choubisa,Barney,tviStech,,8.67,,,5125.15
+"Jul 19, 2024",714731329,WHT,Withholding Tax (IN) - Ref ID 714731315,tviStech,Lokesh Choubisa,Barney,tviStech,,-0.09,,,5125.06
+"Jul 19, 2024",714731348,Service Fee,Service Fee for Hourly - Ref ID 714731315,tviStech,Lokesh Choubisa,Barney,tviStech,,-0.87,,,5124.19
+"Jul 19, 2024",714741295,Hourly,Invoice for 07/08/2024-07/14/2024 - 15:40 hrs @ $20.00/hr (tvis-juhi),tviStech,Juhi Dave,David Hahn,tviStech,,313.33,,,5437.52
+"Jul 19, 2024",714741302,WHT,Withholding Tax (IN) - Ref ID 714741295,tviStech,Juhi Dave,David Hahn,tviStech,,-3.13,,,5434.39
+"Jul 19, 2024",714741321,Service Fee,Service Fee for Hourly - Ref ID 714741295,tviStech,Juhi Dave,David Hahn,tviStech,,-31.33,,,5403.06
+"Jul 19, 2024",715163865,Hourly,Invoice for 07/08/2024-07/14/2024 - 1:50 hrs @ $20.00/hr (pgoradia),tviStech,Parth Goradia,Dor Suki,tviStech,,36.67,,,5439.73
+"Jul 19, 2024",715163871,WHT,Withholding Tax (IN) - Ref ID 715163865,tviStech,Parth Goradia,Dor Suki,tviStech,,-0.37,,,5439.36
+"Jul 19, 2024",715163890,Service Fee,Service Fee for Hourly - Ref ID 715163865,tviStech,Parth Goradia,Dor Suki,tviStech,,-3.67,,,5435.69
+"Jul 16, 2024",715510117,Membership Fee,Fees for additional Connects (500).,,,,tviStech,,-75,,,4076.67

@@ -1,0 +1,32 @@
+Date,Ref ID,Type,Description,Agency,Freelancer,Team,Account Name,PO,Amount,Amount in local currency,Currency,Balance
+9-May-25,805152958,Service Fee,Service Fee for Hourly - Ref ID 805152940,tviStech,Parth Goradia,Scott Christensen,tviStech,,-12,,,6167.55
+9-May-25,805152946,WHT,Withholding Tax (IN) - Ref ID 805152940,tviStech,Parth Goradia,Scott Christensen,tviStech,,-6,,,6179.55
+9-May-25,805152940,Hourly,Invoice for 04/28/2025-05/04/2025 - 4:00 hrs @ $30.00/hr (pgoradia),tviStech,Parth Goradia,Scott Christensen,tviStech,,,,,6185.55
+9-May-25,804946898,Service Fee,Service Fee for Hourly - Ref ID 804946876,tviStech,Alpesh Joshi,Colin Wright,tviStech,,-8.67,,,6065.55
+9-May-25,804946881,WHT,Withholding Tax (IN) - Ref ID 804946876,tviStech,Alpesh Joshi,Colin Wright,tviStech,,-4.33,,,6074.22
+9-May-25,804946876,Hourly,Invoice for 04/28/2025-05/04/2025 - 4:20 hrs @ $20.00/hr (tvis-alpesh),tviStech,Alpesh Joshi,Colin Wright,tviStech,,86.67,,,6078.55
+9-May-25,804641083,Service Fee,Service Fee for Hourly - Ref ID 804641054,tviStech,Parth Goradia,Vizionality,tviStech,,-17,,,5991.88
+9-May-25,804641063,WHT,Withholding Tax (IN) - Ref ID 804641054,tviStech,Parth Goradia,Vizionality,tviStech,,-8.5,,,6008.88
+9-May-25,804641054,Hourly,Invoice for 04/28/2025-05/04/2025 - 5:40 hrs @ $30.00/hr (pgoradia),tviStech,Parth Goradia,Vizionality,tviStech,,170,,,6017.38
+9-May-25,804631376,Service Fee,Service Fee for Hourly - Ref ID 804631363,tviStech,Vishal Barot,Helene Facchini,tviStech,,-30.33,,,5847.38
+9-May-25,804631371,WHT,Withholding Tax (IN) - Ref ID 804631363,tviStech,Vishal Barot,Helene Facchini,tviStech,,-15.17,,,5877.71
+9-May-25,804631363,Hourly,Invoice for 04/28/2025-05/04/2025 - 15:10 hrs @ $20.00/hr (a43cded8),tviStech,Vishal Barot,Helene Facchini,tviStech,,303.33,,,5892.88
+9-May-25,804601509,Service Fee,Service Fee for Hourly - Ref ID 804601489,tviStech,Deep  Maurya,Helene Facchini,tviStech,,-4.67,,,5589.55
+9-May-25,804601496,WHT,Withholding Tax (IN) - Ref ID 804601489,tviStech,Deep  Maurya,Helene Facchini,tviStech,,-2.33,,,5594.22
+9-May-25,804601489,Hourly,Invoice for 04/28/2025-05/04/2025 - 2:20 hrs @ $20.00/hr (tvis-deep),tviStech,Deep  Maurya,Helene Facchini,tviStech,,46.67,,,5596.55
+9-May-25,804460911,Service Fee,Service Fee for Hourly - Ref ID 804460888,tviStech,Sanjana Makhija,Alex Canter,tviStech,,-7.2,,,5549.88
+9-May-25,804460894,WHT,Withholding Tax (IN) - Ref ID 804460888,tviStech,Sanjana Makhija,Alex Canter,tviStech,,-3.6,,,5557.08
+9-May-25,804460888,Hourly,Invoice for 04/28/2025-05/04/2025 - 4:00 hrs @ $18.00/hr (tvis-sanjana),tviStech,Sanjana Makhija,Alex Canter,tviStech,,72,,,5560.68
+9-May-25,804456658,Service Fee,Service Fee for Hourly - Ref ID 804456632,tviStech,Alpesh Joshi,Joe Griffin,tviStech,,-6.93,,,5488.68
+9-May-25,804456639,WHT,Withholding Tax (IN) - Ref ID 804456632,tviStech,Alpesh Joshi,Joe Griffin,tviStech,,-3.47,,,5495.61
+9-May-25,804456632,Hourly,Invoice for 04/28/2025-05/04/2025 - 2:40 hrs @ $26.00/hr (tvis-alpesh),tviStech,Alpesh Joshi,Joe Griffin,tviStech,,69.33,,,5499.08
+9-May-25,804420160,Service Fee,Service Fee for Hourly - Ref ID 804420128,,Parth Goradia,FOXMART,Parth Goradia,,-3.67,,,131.94
+9-May-25,804420149,WHT,Withholding Tax (IN) - Ref ID 804420128,,Parth Goradia,FOXMART,Parth Goradia,,-1.83,,,135.61
+9-May-25,804420128,Hourly,Invoice for 04/28/2025-05/04/2025 - 1:83 hrs @ $20.00/hr,,Parth Goradia,FOXMART,Parth Goradia,,36.67,,,137.44
+8-May-25,806021631,Membership Fee,Fees for additional Connects (500).,,,,tviStech,,-75,,,5429.75
+7-May-25,802478781,Service Fee,Service Fee for Hourly - Ref ID 802478764,tviStech,Parth Goradia,Vizionality,tviStech,,-28.5,,,5504.75
+7-May-25,802478772,WHT,Withholding Tax (IN) - Ref ID 802478764,tviStech,Parth Goradia,Vizionality,tviStech,,-0.29,,,5533.25
+7-May-25,802478764,Hourly,Invoice for 04/21/2025-04/27/2025 - 9:30 hrs @ $30.00/hr (pgoradia),tviStech,Parth Goradia,Vizionality,tviStech,,285,,,5533.54
+2-May-25,802268071,Service Fee,Service Fee for Hourly - Ref ID 802268056,,Parth Goradia,Joe Griffin,Parth Goradia,,-1.73,,,100.77
+2-May-25,802268064,WHT,Withholding Tax (IN) - Ref ID 802268056,,Parth Goradia,Joe Griffin,Parth Goradia,,-0.02,,,102.5
+2-May-25,802268056,Hourly,Invoice for 04/21/2025-04/27/2025 - 0:67 hrs @ $26.00/hr,,Parth Goradia,Joe Griffin,Parth Goradia,,17.33,,,102.52

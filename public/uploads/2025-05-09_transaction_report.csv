@@ -1,0 +1,7 @@
+Date,Transaction ID,Transaction Type,Transaction Summary,Transaction Summary Details,Description 1,Description 2,Description 3,Agency,Freelancer,Team,Account Name,PO,Ref ID,Amount $,Amount in local currency,Currency,Current Balance $,Payment Method
+"May 9, 2025",804420128,Service Fee,work-alon,"Earnings for Apr 28-May 4, 2025",Service fee,$36.67 x 10.0% = $3.67,,,,FOXMART,Parth Goradia,,804420160,-3.67,,,131.94,
+"May 9, 2025",804420128,WHT,work-alon,"Earnings for Apr 28-May 4, 2025",Withholding tax,$36.67 x 5.0% = $1.83,,,,FOXMART,Parth Goradia,,804420149,-1.83,,,135.61,
+"May 9, 2025",804420128,Hourly,work-alon,"Earnings for Apr 28-May 4, 2025","Earnings for Apr 28-May 4, 2025",1.83 hours x $20.00 = $36.67,,,,FOXMART,Parth Goradia,,804420128,36.67,,,137.44,
+"May 2, 2025",802268056,Service Fee,Website Development,"Earnings for Apr 21-Apr 27, 2025",Service fee,$17.33 x 10.0% = $1.73,,,,Joe Griffin,Parth Goradia,,802268071,-1.73,,,100.77,
+"May 2, 2025",802268056,WHT,Website Development,"Earnings for Apr 21-Apr 27, 2025",Withholding tax,$17.33 x 0.1% = $0.02,,,,Joe Griffin,Parth Goradia,,802268064,-0.02,,,102.50,
+"May 2, 2025",802268056,Hourly,Website Development,"Earnings for Apr 21-Apr 27, 2025","Earnings for Apr 21-Apr 27, 2025",0.67 hours x $25.99 = $17.33,,,,Joe Griffin,Parth Goradia,,802268056,17.33,,,102.52,
